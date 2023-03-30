@@ -13,8 +13,8 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
-sourceCompatibility = '18'
-targetCompatibility = '18'
+sourceCompatibility = '11'
+targetCompatibility = '11'
 
 ext {
     junitVersion = '5.9.2'
