@@ -21,6 +21,6 @@ public class TestIt
     @Test
     public void testNothing()
     {
-        assertEquals(12,10,4);
+        assertEquals(12,10,2);
     }
 }
